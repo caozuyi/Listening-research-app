@@ -3,7 +3,6 @@ from ebooklib import epub
 from bs4 import BeautifulSoup
 import pdfplumber
 import docx
-import mobi  # 新增
 import os
 import shutil
 from pathlib import Path
@@ -59,4 +58,5 @@ def load_document(file_path):
         return text
 
     else:
+
         raise ValueError(f"暂不支持的文件格式: {ext}")
