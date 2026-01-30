@@ -1,0 +1,6 @@
+streamlit
+edge-tts
+python-docx
+PyMuPDF
+ebooklib
+beautifulsoup4
