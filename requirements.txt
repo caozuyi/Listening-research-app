@@ -1,6 +1,8 @@
 streamlit
-edge-tts
+pdfplumber
 python-docx
-PyMuPDF
 ebooklib
 beautifulsoup4
+edge-tts
+
+
